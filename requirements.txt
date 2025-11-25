@@ -1,11 +1,8 @@
-cat > requirements.txt << 'EOF'
-streamlit==1.29.0
-pandas==2.1.3
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.3
 plotly==5.18.0
-pymongo==4.6.0
+pymongo==4.6.1
+scikit-learn==1.4.0
 python-dotenv==1.0.0
-dnspython==2.4.2
-joblib==1.3.2
-scikit-learn==1.3.2
-numpy==1.26.2
-EOF
+Pillow==10.2.0
